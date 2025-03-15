@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344915311135",
+    "project_id": "wastemanagementsystem-b0b0b",
+    "storage_bucket": "wastemanagementsystem-b0b0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344915311135:android:395f6e7cd067f9a76af32a",
+        "android_client_info": {
+          "package_name": "com.example.ecotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9l9GxE1NPXv6EurAkUI1encC90xWwh0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
