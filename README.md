@@ -1,6 +1,6 @@
 # ecotrack
 
-finalyearproject
+Mobile Project
 
 ## Getting Started
 
